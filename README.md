@@ -1,7 +1,7 @@
 ```c
 /*
  * ================================================
- * C-Forge
+ *                    C-FORGE
  * ================================================
  */
 
@@ -9,16 +9,17 @@
 
 int main()
 {
+    // Collection of my C programming projects 
+    // with clean code and detailed documentation.
+
     /*
-     * Collection of my C programming projects 
-     * with clean code and detailed documentation.
-     *
-     * Projects:
-     *   - Advanced Calculator
-     *   - C-Bank
-     *
-     * Made by Adithiyaa
-     */
+        Projects:
+        
+        • Advanced Calculator   - Feature-rich console calculator
+        • C-Bank                - Simple console banking system
+    */
+
+    // Made by Adithiyaa
 
     return 0;
 }
