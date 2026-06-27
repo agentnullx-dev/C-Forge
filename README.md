@@ -1,16 +1,24 @@
-# #include <stdio.h>
-## int main()
-## {
-# C-Forge
+```c
+/*
+ * ================================================
+ * C-Forge
+ * ================================================
+ */
 
-Collection of my C programming projects with clean code and detailed documentation.
+#include <stdio.h>
 
-## Projects
+int main()
+{
+    /*
+     * Collection of my C programming projects 
+     * with clean code and detailed documentation.
+     *
+     * Projects:
+     *   - Advanced Calculator
+     *   - C-Bank
+     *
+     * Made by Adithiyaa
+     */
 
-- **[Advanced Calculator](./Calculator)** - Feature-rich console calculator
-- **[C-Bank](./C-Bank)** - Simple console banking system
-
----
-# return 0;
-## }
-Made by Adithiyaa
+    return 0;
+}
